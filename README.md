@@ -96,21 +96,21 @@ Using the song and log datasets, a **star schema** is created and optimized for 
 
 ### songs
 
-![songs](https://github.com/yuhouzhou/postgres-data-modeling-and-etl/images/songs.png)
+![songs](https://github.com/yuhouzhou/postgres-data-modeling-and-etl/blob/master/images/songs.png)
 
 ### artists
 
-![artists](https://github.com/yuhouzhou/postgres-data-modeling-and-etl/images/artists.png)
+![artists](https://github.com/yuhouzhou/postgres-data-modeling-and-etl/blob/master/images/artists.png)
 
 ### time
 
-![time](https://github.com/yuhouzhou/postgres-data-modeling-and-etl/images/time.png)
+![time](https://github.com/yuhouzhou/postgres-data-modeling-and-etl/blob/master/images/time.png)
 
 ### users 
 
-![users](https://github.com/yuhouzhou/postgres-data-modeling-and-etl/images/users.png)
+![users](https://github.com/yuhouzhou/postgres-data-modeling-and-etl/blob/master/images/users.png)
 
 ### songplays
 
-![songplays](https://github.com/yuhouzhou/postgres-data-modeling-and-etl/images/songplays.png)
+![songplays](https://github.com/yuhouzhou/postgres-data-modeling-and-etl/blob/master/images/songplays.png)
 
